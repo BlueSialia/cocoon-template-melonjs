@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<widget id="com.cocoonio.melonjs.clumsybird" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cocoon="http://cocoon.io/ns/1.0">
+<widget id="io.cocoon.melonjs.clumsybird" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cocoon="http://cocoon.io/ns/1.0">
     <name>Clumsy Bird</name>
     <description>
 Flappy Bird game with Cocoon.io using https://github.com/ellisonleao/clumsy-bird as base.
